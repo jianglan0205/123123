@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>测试</title>
+</head>
+
+<body>
+    <style id="demo2"></style>
+    <div id="demo"></div>
+    <div id="buttons">
+        <button id="btnPause">暂停</button>
+        <button id="btnPlay">播放</button>
+        <button id="btnSlow">慢速</button>
+        <button id="btnNormal">中速</button>
+        <button id="btnFast">快速</button>
+    </div>
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        *::before,
+        *::after {
+            box-sizing: border-box;
+        }
+
+        #buttons {
+            position: fixed;
+            right: 0;
+            top: 0;
+            z-index: 10;
+            display: flex;
+            flex-direction: column;
+            margin-top: 10px;
+            margin-right: 10px;
+        }
+
+        #buttons>button {
+            margin-bottom: 10px;
+            padding: 4px 8px;
+        }
+
+        #demo2 {
+            display: none;
+        }
+
+        #demo {
+            position: fixed;
+            height: 30vh;
+            top: 0;
+            left: 0;
+            width: 100%;
+            overflow-y: auto;
+        }
+
+        #demo::-webkit-scrollbar {
+            display: none;
+        }
+
+        #html {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 50vh;
+        }
+    </style>
+    <div class="tou">
+        <div class="yuan1"></div>
+        <div class="yuan2"></div>
+        <div class="yuan3"></div>
+
+        <div class="ear left"></div>
+        <div class="ear right"></div>
+        <div class="ear2 left"></div>
+        <div class="ear2 right"></div>
+
+
+        <div class="eye left"></div>
+        <div class="eye right"></div>
+
+        <div class="nose"></div>
+
+        <div class="bow1"></div>
+        <div class="bow2 left"></div>
+        <div class="bow2 right"></div>
+        <div class="bow3 left"></div>
+        <div class="bow3 right"></div>
+
+
+    </div>
+    <script src="test.d9bdedd2.js"></script>
+</body>
+
+</html>

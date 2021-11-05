@@ -1,0 +1,13 @@
+12
+54C:\Users\25045\Desktop\bear\src\dist\index.23420cfa.js132803916573156301 0
+36C:\Users\25045\Desktop\bear\src\dist132803916573794589 1
+38C:\Users\25045\Desktop\bear\src\css.js132805935887662968 0
+41C:\Users\25045\Desktop\bear\src\test.html132805916618375956 0
+42C:\Users\25045\Desktop\bear\src\index.html132803289989271329 0
+39C:\Users\25045\Desktop\bear\src\main.js132803145722569908 0
+41C:\Users\25045\Desktop\bear\src\style.css132803296664643490 0
+58C:\Users\25045\Desktop\bear\src\dist\index.23420cfa.js.map132803916573754685 0
+39C:\Users\25045\Desktop\bear\src\test.js132805935815860499 0
+55C:\Users\25045\Desktop\bear\src\dist\index.f556d9ac.css132803916573156301 0
+59C:\Users\25045\Desktop\bear\src\dist\index.f556d9ac.css.map132803916573764659 0
+47C:\Users\25045\Desktop\bear\src\dist\index.html132803916573136688 0

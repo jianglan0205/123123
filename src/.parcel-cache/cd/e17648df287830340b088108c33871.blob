@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+*::after,
+*::after {
+  box-sizing: border-box;
+}
+
+.tou {
+  position: relative;
+}
+
+.nose {
+  border: 1px solid black;
+  position: relative;
+  width: 36px;
+  height: 32px;
+}

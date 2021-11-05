@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale=0.5, maximum-scale=0.5, minimum-scale=0.5, user-scalable=no">
+    <title>bear</title>
+    <link rel="stylesheet" href="381af7e926dee1ccea208748d9a01fe7">
+</head>
+
+<body>
+    <div class="tou">
+        <div class="yuan1"></div>
+        <div class="yuan2"></div>
+
+        <div class="ear left"></div>
+        <div class="ear right"></div>
+        <div class="ear2 left"></div>
+        <div class="ear2 right"></div>
+
+
+        <div class="eye left"></div>
+        <div class="eye right"></div>
+
+        <div class="nose"></div>
+
+        <div class="bow1"></div>
+        <div class="bow2 left"></div>
+        <div class="bow2 rigt"></div>
+        <div class="bow3 left"></div>
+        <div class="bow1"></div>
+
+
+    </div>
+
+
+
+    <script src="5ab0d911be27f832b081dcdb7ddcd802"></script>
+</body>
+
+</html>

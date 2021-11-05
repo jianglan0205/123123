@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+*::after,
+*::after {
+  box-sizing: border-box;
+}
+*/ .tou {
+  position: relative;
+}
+
+.nose {
+  position: relative;
+  width: 36px;
+  height: 32px;
+  left: 50%;
+  top: 200px;
+  margin-left: -18px;
+  border-radius: 50%;
+  background-color: rgb(147, 91, 69);
+}
+
+.eyes {
+  border: 1px solid rgb(87, 86, 92);
+  position: relative;
+  width: 16px;
+  height: 10px;
+}
+
+/*# sourceMappingURL=index.HASH_REF_8a6e625a6f078c797be837fbf556d9ac.css.map */
